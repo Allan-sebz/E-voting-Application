@@ -4,7 +4,7 @@ Run this file to start the application.
 """
 
 import sys
-import os
+import os 
 
 # Ensure the evoting package can be found
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

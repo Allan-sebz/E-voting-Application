@@ -200,7 +200,7 @@ You need candidates to compete in elections.
    Your registration is pending admin verification.
    ```
 
-**⚠️ WRITE DOWN YOUR VOTER CARD NUMBER!**
+** WRITE DOWN YOUR VOTER CARD NUMBER!**
 
 ---
 
@@ -243,7 +243,7 @@ The voter needs verification before voting.
 
 ---
 
-### Step 13: Cast Your Vote! 🗳️
+### Step 13: Cast Your Vote! 
 
 1. Select **Option 2** (Cast Vote)
 2. Select Poll ID: `1`
@@ -339,7 +339,7 @@ The voter needs verification before voting.
 
 ---
 
-## 🔧 Additional Features to Explore
+##  Additional Features to Explore
 
 ### Admin Dashboard (All 32 Options)
 
@@ -366,7 +366,7 @@ The voter needs verification before voting.
 
 ---
 
-## ⚠️ Important Business Rules
+##  Important Business Rules
 
 1. **Candidate Age:** Must be 25-75 years old
 2. **Voter Age:** Must be 18+ years old
@@ -381,7 +381,7 @@ The voter needs verification before voting.
 
 ---
 
-## 🔄 Quick Test Sequence
+##  Quick Test Sequence
 
 ```
 1. Admin Login (admin/admin123)
@@ -408,7 +408,7 @@ The voter needs verification before voting.
 
 ---
 
-## 💾 Data Persistence
+##  Data Persistence
 
 All data is saved to `evoting_data.json` in the workspace root. The file is auto-created on first run with a default admin account.
 
@@ -416,4 +416,4 @@ To reset the application, delete `evoting_data.json` and restart.
 
 ---
 
-**Happy Testing! 🗳️**
+**Happy Testing! **
