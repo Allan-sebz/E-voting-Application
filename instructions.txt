@@ -23,7 +23,7 @@ Apply the following principles from this course:
 2.Object-Oriented Design
 3.Separation of Concerns
 4.Clean Code
-Uganda Christian University|Examinations for Easter 2026 Semester.
+@Uganda Christian University|Examinations for Easter 2026 Semester.
 “A Complete Education for A Complete Person”
 Founded by the Province of the Church of Uganda. Chartered by the Government of UgandaBsCS SOFTWARE CONSTRUCTION,YEAR3,2MARCH2026.page 2 of 2
 Deliverables & Assessment
