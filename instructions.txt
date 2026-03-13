@@ -1,0 +1,41 @@
+BsCS SOFTWARE CONSTRUCTION,YEAR3,2MARCH2026.page 1 of 2
+FACULTY OF ENGINEERING, DESIGN AND TECHNOLOGY
+DEPARTMENT OF COMPUTING AND TECHNOLOGY
+EASTER2026SEMESTER TEST
+1.PROGRAM:BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+2.YEAR: 3, 2
+3.SEMESTER: 2
+4.COURSE NAME:SOFTWARE CONSTRUCTION
+Examination Instructions
+You are provided with a fully working National E-Voting console application packed into one file. It
+handles candidate CRUD (with eligibility checks for age, education, criminal record), voting station
+management, position and poll lifecycle, voter registration and verification, ballot casting with du-
+plicate prevention, result tallying with bar charts and turnout statistics, and role-based access for
+four admin types plus voters.
+Run it first. Log in as admin, create a station, register a voter, set up a poll end-to-end, then vote.
+Understand every feature before you touch the code.
+The application was deliberately written to violate every principle you have studied and Your Task
+is to refactor this monolith into a modular, object-oriented Python project. The application must
+behave identically after refactoring e.g., same menus, same prompts, same outputs. Do not add new
+features.
+Apply the following principles from this course:
+1.Modular Design
+2.Object-Oriented Design
+3.Separation of Concerns
+4.Clean Code
+Uganda Christian University|Examinations for Easter 2026 Semester.
+“A Complete Education for A Complete Person”
+Founded by the Province of the Church of Uganda. Chartered by the Government of UgandaBsCS SOFTWARE CONSTRUCTION,YEAR3,2MARCH2026.page 2 of 2
+Deliverables & Assessment
+Create a GitHub repository and push a project folder with all source files plus a brief report/ GitHub
+readme.md(1–2 pages) explaining your structure and design decisions.
+Criterion Weight Focus
+Modular Structure 25% Logical file separation, single responsibilities
+Object-Oriented Design 20% Proper classes, encapsulation, meaningful methods
+Separation of Concerns 20% UI, logic, and data layers fully decoupled
+Clean Code Quality 15% Naming, readability, no duplication
+Working Application 10% All original features still function
+Report 10% Clear explanation of structure and decisions
+◀END▶
+©Uganda Christian University|Examinations for Easter 2026 Semester.
+Department of Computing&Technology|Faculty of Engineering, Design and Technology
