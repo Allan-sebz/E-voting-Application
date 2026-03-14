@@ -5,7 +5,7 @@ Poll model - represents an election/poll event.
 import datetime
 
 
-class PollPosition:
+class PollPosition: 
     """Represents a position within a poll with assigned candidates."""
     
     def __init__(

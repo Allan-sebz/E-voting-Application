@@ -5,7 +5,7 @@ Candidate model - represents an election candidate.
 import datetime
 
 
-class Candidate:
+class Candidate: 
     """Represents an election candidate with eligibility criteria."""
     
     def __init__(
