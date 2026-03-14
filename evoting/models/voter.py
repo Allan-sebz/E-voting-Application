@@ -72,7 +72,7 @@ class Voter:
     def from_dict(cls, data: dict) -> 'Voter':
         """Create voter from dictionary."""
         return cls(
-            id=data["id"],
+            id=data["id"],  
             full_name=data["full_name"],
             national_id=data["national_id"],
             date_of_birth=data["date_of_birth"],

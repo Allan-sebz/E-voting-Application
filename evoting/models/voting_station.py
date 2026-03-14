@@ -5,7 +5,7 @@ VotingStation model - represents a physical voting location.
 import datetime
 
 
-class VotingStation:
+class VotingStation: 
     """Represents a physical voting station/location."""
     
     def __init__(

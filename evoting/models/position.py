@@ -6,7 +6,7 @@ import datetime
 from ..config import MIN_CANDIDATE_AGE
 
 
-class Position:
+class Position: 
     """Represents an electable position (e.g., President, Governor)."""
     
     def __init__(

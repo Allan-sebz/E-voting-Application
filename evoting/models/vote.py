@@ -7,7 +7,7 @@ class Vote:
     """Represents a single vote cast by a voter."""
     
     def __init__(
-        self,
+        self, 
         vote_id: str,
         poll_id: int,
         position_id: int,
