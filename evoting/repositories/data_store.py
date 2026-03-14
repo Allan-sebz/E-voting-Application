@@ -26,7 +26,7 @@ class DataStore:
         self.candidate_id_counter = 1
         
         self.voting_stations = {}
-        self.station_id_counter = 1
+        self.station_id_counter = 1 
         
         self.polls = {}
         self.poll_id_counter = 1
