@@ -9,7 +9,7 @@ from ..validators import hash_password
 class AdminService:
     """Handles admin management business logic."""
     
-    def __init__(self, data_store):
+    def __init__(self, data_store): 
         self.data_store = data_store
     
     def create_admin(
