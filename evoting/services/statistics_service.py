@@ -16,7 +16,7 @@ class StatisticsService:
         """
         poll = self.data_store.get_poll(poll_id)
         if not poll:
-            return None
+            return None 
         
         # Calculate eligible voters
         eligible_voters = sum(

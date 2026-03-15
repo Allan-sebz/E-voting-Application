@@ -12,7 +12,7 @@ class CandidateService:
     def __init__(self, data_store):
         self.data_store = data_store
     
-    def create_candidate(
+    def create_candidate( 
         self,
         full_name: str,
         national_id: str,
