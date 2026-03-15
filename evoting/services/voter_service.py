@@ -12,7 +12,7 @@ class VoterService:
     def __init__(self, data_store):
         self.data_store = data_store
     
-    def register_voter(
+    def register_voter( 
         self,
         full_name: str,
         national_id: str,

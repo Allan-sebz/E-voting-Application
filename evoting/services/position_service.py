@@ -6,7 +6,7 @@ import datetime
 from ..config import MIN_CANDIDATE_AGE
 
 
-class PositionService:
+class PositionService: 
     """Handles position management business logic."""
     
     def __init__(self, data_store):

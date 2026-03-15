@@ -14,7 +14,7 @@ class VotingService:
     
     def get_available_polls_for_voter(self, voter: dict) -> dict:
         """Get polls available for a voter to vote in."""
-        open_polls = {
+        open_polls = { 
             pid: p for pid, p in self.data_store.get_all_polls().items()
             if p["status"] == "open"
         }
